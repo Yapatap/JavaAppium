@@ -1,0 +1,12 @@
+tests/ArticleTests.class
+tests/ChangeAppConditionTests.class
+tests/MyListsTests.class
+lib/iOSTestCase.class
+lib/ui/NavigationUI.class
+lib/ui/MyListsPageObject.class
+tests/SearchTests.class
+lib/CoreTestCase.class
+lib/ui/ArticlePageObject.class
+lib/ui/SearchPageObject.class
+lib/ui/MainPageObject.class
+suites/TestSuete.class
